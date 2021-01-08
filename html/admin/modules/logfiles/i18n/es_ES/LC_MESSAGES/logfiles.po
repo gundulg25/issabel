@@ -1,0 +1,63 @@
+# This file is part of IssabelPBX.
+#
+#    IssabelPBX is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    IssabelPBX is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with IssabelPBX.  If not, see <http://www.gnu.org/licenses/>.
+#
+# Copyright (C) 2008, 2009 Bandwith.com
+#
+
+msgid "Asterisk Logfiles"
+msgstr "Archivos de bitácora de Asterisk"
+
+msgid "Reports"
+msgstr ""
+
+msgid "Log File Settings"
+msgstr "Configuración de bitácora de Asterisk"
+
+msgid "General Settings"
+msgstr "Configuraciones Generales"
+
+msgid "Date Format"
+msgstr "Formato de Fecha"
+
+msgid "Log rotation"
+msgstr "Rotación de archivos"
+
+msgid "Append Hostname"
+msgstr "Adicionar Hostname"
+
+msgid "Log Queues"
+msgstr "Registrar actividad de colas"
+
+msgid "Log Files"
+msgstr "Archivos de bitácora"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Customize the display of debug message time stamps. See strftime(3) Linux manual for format specifiers. Note that there is also a fractional second parameter which may be used in this field.  Use %1q for tenths, %2q for hundredths, etc."
+msgstr "Personalice las etiquetas de tiempo en el registro. Vea el manual de strftime(3) para más detalles. Tenga en cuenta que existe un parámetro de segundo fraccional que puede usar en este campo. Use %1q para décimos, %2q para centésimos, etc."
+
+msgid "Leave blank for default: ISO 8601 date format yyyy-mm-dd HH:MM:SS (%F %T)"
+msgstr "Deje en blanco para el valor por omisiíon: ISO 8601 yyyy-mm-dd HH:MM:SS (%F %T)"
+
+#~ msgid "%s - last %s lines"
+#~ msgstr "%s - Últimas %s líneas"
+
+#~ msgid "Redisplay Asterisk Full debug log (last %s lines)"
+#~ msgstr ""
+#~ "Actualizar bitácora completa de depuración de Asterisk (últimas %s líneas)"
+
+#~ msgid "Asterisk Log Files"
+#~ msgstr "Archivos de bitácora de Asterisk"
